@@ -8,8 +8,6 @@ public class AddNumber implements Calculate {
 		return a+b;
 	}
 	
-	public void print() {
-		System.out.println("muhahaha");
-	}
+	
 
 }
