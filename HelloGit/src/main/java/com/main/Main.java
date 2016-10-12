@@ -14,6 +14,7 @@ public class Main {
 		int muledNumberResult = mulNumber.calculate(5, 5);
 		System.out.println("Add Number Result: " + addeNumberResult);
 		System.out.println("Muled Number Result: " + muledNumberResult);
+		System.out.println("OVERAL NUMBER RESULT: " + (addeNumberResult + muledNumberResult));
 	}
 
 }
