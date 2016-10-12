@@ -1,0 +1,7 @@
+HelloGit/target/
+.idea/
+*iml
+Servers/
+RemoteSystemsTempFiles/
+.recommenders/
+.metadata/
